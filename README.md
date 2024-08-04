@@ -1,2 +1,2 @@
 # Picture-repo
-Upload images for project note
+Upload images for project notes
